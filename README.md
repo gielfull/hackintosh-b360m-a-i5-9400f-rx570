@@ -7,4 +7,19 @@ Hackintosh - Mac OS X Catalina 10.15.7
  - **RAM:** 24GB (2x8 G.Skill TridentZ)(1x8 Kingston Predator) (DDR4
    3000Mhz)
    
-All is working.
+# What's Working/What's Not
+## Working
+- Ethernet
+- Onboard Audio (including digital audio)
+- APFS
+- Sleep/Wake
+- iMessage
+- App Store
+- Facetime
+
+## Not Yet Tested
+- FileVault
+- All USB ports
+- Airdrop
+- AirPlay
+- Unlock with Apple Watch
