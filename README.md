@@ -1,3 +1,6 @@
+### This repo use, [Dortania's OpenCore Install Guide v0.6.2](https://dortania.github.io/OpenCore-Install-Guide/)
+
+
 # hackintosh-b360m-a-i5-9400f-rx570
 Hackintosh - Mac OS X Catalina 10.15.7
 
@@ -6,6 +9,7 @@ Hackintosh - Mac OS X Catalina 10.15.7
  - **Board:** Asus Prime B360M-A
  - **RAM:** 24GB (2x8 G.Skill TridentZ)(1x8 Kingston Predator) (DDR4
    3000Mhz)
+   
    
 # What's Working/What's Not
 ## Working
